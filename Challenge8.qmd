@@ -13,7 +13,11 @@ Quarto enables you to weave together content and executable code into a finished
 When you click the **Render** button a document will be generated that includes both content and the output of embedded code. You can embed code like this:
 
 ```{r}
+#what was the last movie you watched in a theater?
 # I watched Godzilla Minus One this past sunday.
+
+#What did you eat for today’s lunch?
+#I ate some dumplings and chicken wraps.
 ```
 
 You can add options to executable code like this
